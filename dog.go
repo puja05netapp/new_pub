@@ -1,3 +1,4 @@
+package new_pub
 
 import (
 	"strings"
